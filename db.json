@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hambuger",
+      "description": "abc",
+      "imageUrl": "https://images.vexels.com/media/users/3/152411/isolated/lists/4a22d435331dde73ae0f1cebbdbaacff-double-burger-icon.png",
+      "price": 80000
+    },
+    {
+      "id": 2,
+      "name": "Hambuger1",
+      "description": "cef",
+      "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+      "price": 70000
+    },
+    {
+      "id": 3,
+      "name": "Hambuger2",
+      "description": "ghi",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+      "price": 60000
+    },
+    {
+      "id": 4,
+      "name": "Hambuger3",
+      "description": "jqk",
+      "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/34/6f/a1346fc5-cdaf-d385-32f3-39c0340e92c6/source/256x256bb.jpg",
+      "price": 50000
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Hambuger2",
+        "description": "ghi",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+        "price": 60000
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Hambuger2",
+        "description": "ghi",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+        "price": 60000
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Hambuger2",
+        "description": "ghi",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+        "price": 60000
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hambuger1",
+        "description": "cef",
+        "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+        "price": 70000
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hambuger1",
+        "description": "cef",
+        "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+        "price": 70000
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hambuger",
+        "description": "abc",
+        "imageUrl": "https://images.vexels.com/media/users/3/152411/isolated/lists/4a22d435331dde73ae0f1cebbdbaacff-double-burger-icon.png",
+        "price": 80000
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hambuger",
+        "description": "abc",
+        "imageUrl": "https://images.vexels.com/media/users/3/152411/isolated/lists/4a22d435331dde73ae0f1cebbdbaacff-double-burger-icon.png",
+        "price": 80000
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hambuger1",
+        "description": "cef",
+        "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+        "price": 70000
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Hambuger2",
+        "description": "ghi",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+        "price": 60000
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hambuger1",
+        "description": "cef",
+        "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+        "price": 70000
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hambuger",
+        "description": "abc",
+        "imageUrl": "https://images.vexels.com/media/users/3/152411/isolated/lists/4a22d435331dde73ae0f1cebbdbaacff-double-burger-icon.png",
+        "price": 80000
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Hambuger3",
+        "description": "jqk",
+        "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/34/6f/a1346fc5-cdaf-d385-32f3-39c0340e92c6/source/256x256bb.jpg",
+        "price": 50000
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Hambuger2",
+        "description": "ghi",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbFcF42v3IHPIcaMQuFLfseOWXh3pobFoJsQ&usqp=CAU",
+        "price": 60000
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hambuger1",
+        "description": "cef",
+        "imageUrl": "https://images.vexels.com/media/users/3/152676/isolated/lists/4901900ec6cd623e843598a78d23eefa-triple-cheeseburger-icon.png",
+        "price": 70000
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hambuger",
+        "description": "abc",
+        "imageUrl": "https://images.vexels.com/media/users/3/152411/isolated/lists/4a22d435331dde73ae0f1cebbdbaacff-double-burger-icon.png",
+        "price": 80000
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Hambuger3",
+        "description": "jqk",
+        "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/34/6f/a1346fc5-cdaf-d385-32f3-39c0340e92c6/source/256x256bb.jpg",
+        "price": 50000
+      },
+      "id": 16
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
